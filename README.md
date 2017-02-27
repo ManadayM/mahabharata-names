@@ -1,1 +1,0 @@
-# mahabharata-names
