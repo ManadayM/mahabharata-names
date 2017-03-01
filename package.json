@@ -1,7 +1,7 @@
 {
   "name": "mahabharata-names",
   "version": "1.0.0",
-  "description": "",
+  "description": "Get random character names from Mahabharata",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
