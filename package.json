@@ -1,6 +1,6 @@
 {
   "name": "mahabharata-names",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get random character names from the Mahabharata.",
   "main": "src/index.js",
   "scripts": {
