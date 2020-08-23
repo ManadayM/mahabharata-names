@@ -1,5 +1,5 @@
-var uniqueRandomArray = require('unique-random-array');
-var mahabharataNames = require('./mahabharata-names.json');
+const uniqueRandomArray = require('unique-random-array');
+const mahabharataNames = require('./mahabharata-names.json');
 
 module.exports = {
 	all: mahabharataNames,

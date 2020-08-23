@@ -1,7 +1,7 @@
 {
   "name": "mahabharata-names",
   "version": "1.0.0",
-  "description": "Get random character names from Mahabharata",
+  "description": "Get random character names from the Mahabharata.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,13 +15,13 @@
     "mahabharata",
     "names"
   ],
-  "author": "Manaday",
-  "license": "UNLICENSED",
+  "author": "Manaday K. Mavani <m.k.mavani@gmail.com> (https://twitter.com/manadaym)",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ManadayM/mahabharata-names/issues"
   },
   "homepage": "https://github.com/ManadayM/mahabharata-names#readme",
   "dependencies": {
-    "unique-random-array": "1.0.0"
+    "unique-random-array": "2.0.0"
   }
 }
